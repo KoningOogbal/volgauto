@@ -7,4 +7,5 @@ basic.forever(function () {
     } else {
     	
     }
+    oud = nieuw
 })
